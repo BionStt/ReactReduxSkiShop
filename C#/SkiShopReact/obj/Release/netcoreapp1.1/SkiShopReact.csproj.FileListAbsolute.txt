@@ -1,0 +1,11 @@
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\bin\Release\netcoreapp1.1\SkiShopReact.deps.json
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\bin\Release\netcoreapp1.1\SkiShopReact.runtimeconfig.json
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\bin\Release\netcoreapp1.1\SkiShopReact.runtimeconfig.dev.json
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\bin\Release\netcoreapp1.1\SkiShopReact.dll
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\bin\Release\netcoreapp1.1\SkiShopReact.pdb
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\obj\Release\netcoreapp1.1\SkiShopReact.csprojResolveAssemblyReference.cache
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\obj\Release\netcoreapp1.1\SkiShopReact.csproj.CoreCompileInputs.cache
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\obj\Release\netcoreapp1.1\SkiShopReact.AssemblyInfoInputs.cache
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\obj\Release\netcoreapp1.1\SkiShopReact.AssemblyInfo.cs
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\obj\Release\netcoreapp1.1\SkiShopReact.dll
+C:\Users\Student\Projects\ReactReduxSpa\C#\SkiShopReact\obj\Release\netcoreapp1.1\SkiShopReact.pdb
